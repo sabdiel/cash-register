@@ -1,0 +1,16 @@
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\CashRegister.Tests.dll
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\CashRegister.Tests.pdb
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\CashRegister.exe
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\CashRegister.pdb
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\CashRegister.exe.config
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Code\Projects\CashRegister\CashRegister.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Code\Projects\CashRegister\CashRegister.Tests\obj\Debug\CashRegister.Tests.csprojResolveAssemblyReference.cache
+C:\Code\Projects\CashRegister\CashRegister.Tests\obj\Debug\CashRegister.Tests.csproj.CoreCompileInputs.cache
+C:\Code\Projects\CashRegister\CashRegister.Tests\obj\Debug\CashRegister.Tests.dll
+C:\Code\Projects\CashRegister\CashRegister.Tests\obj\Debug\CashRegister.Tests.pdb
